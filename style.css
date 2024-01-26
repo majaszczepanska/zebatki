@@ -24,3 +24,6 @@ font-family: Arial;
 text-align: right;
 clear: both;
 }
+li {
+  list-style-type: circle
+}
