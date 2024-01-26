@@ -1,6 +1,6 @@
 header {
 background: #008080;
-height: 50px;
+height: 100px;
 font-family: Arial;
 text-align: center;
 }
@@ -22,6 +22,7 @@ footer {
 background:#008080;
 font-family: Arial;
 text-align: right;
+height: 100px;
 clear: both;
 }
 li {
