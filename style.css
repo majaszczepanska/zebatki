@@ -1,31 +1,26 @@
 header {
-background: #b938ff;
+background: #008080;
 height: 50px;
 font-family: Arial;
 text-align: center;
 }
 nav {
-background: #d68aff;
+background: #20B2AA;
 height: 600px;
 width: 25%;
 float: left;
 text-decoration: none;
 }
 main {
-background: #d2a4ea;
+background: #66CDAA;
 height: 600px;
 width: 75%;
 text-align: center;
 float: left
 }
 footer {
-background:#f2dcfe;
+background:#008080;
 font-family: Arial;
 text-align: right;
 clear: both;
-}
-new {
-background: white;
-height: 50px;
-text-align: center;
 }
