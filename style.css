@@ -3,6 +3,7 @@ background: #008080;
 height: 100px;
 font-family: Arial;
 text-align: center;
+padding: 10px;
 }
 nav {
 background: #20B2AA;
@@ -10,13 +11,15 @@ height: 600px;
 width: 25%;
 float: left;
 text-decoration: none;
+  padding: 10px;
 }
 main {
 background: #66CDAA;
 height: 600px;
 width: 75%;
 text-align: center;
-float: left
+float: left;
+  padding: 10px;
 }
 footer {
 background:#008080;
@@ -24,6 +27,7 @@ font-family: Arial;
 text-align: right;
 height: 100px;
 clear: both;
+  padding: 10px;
 }
 li {
   list-style-type: circle
