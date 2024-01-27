@@ -5,6 +5,9 @@ font-family: Arial;
 text-align: center;
 font-size:25px;
 }
+header>h1 {
+  margin-top: 5px;
+}
 nav {
 background: #20B2AA;
 height: 600px;
@@ -12,6 +15,9 @@ width: 25%;
 float: left;
 text-decoration: none;
   font-size:20px;
+}
+nav>ul {
+  margin-left: 20px;
 }
 main {
 background: #66CDAA;
@@ -27,6 +33,9 @@ text-align: right;
 height: 100px;
 clear: both;
   font-size:25px;
+}
+footer>p {
+  padding: 5px;
 }
 li {
   list-style-type: circle;
