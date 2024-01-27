@@ -4,6 +4,7 @@ height: 100px;
 font-family: Arial;
 text-align: center;
 padding: 10px;
+font-size:25px;
 }
 nav {
 background: #20B2AA;
@@ -12,6 +13,7 @@ width: 25%;
 float: left;
 text-decoration: none;
   padding: 10px;
+  font-size:20px;
 }
 main {
 background: #66CDAA;
@@ -28,9 +30,11 @@ text-align: right;
 height: 100px;
 clear: both;
   padding: 10px;
+  font-size:25px;
 }
 li {
-  list-style-type: circle
+  list-style-type: circle;
 }
 img {
   margin-top: 20px;
+}
