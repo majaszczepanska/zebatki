@@ -16,8 +16,11 @@ float: left;
 text-decoration: none;
   font-size:20px;
 }
-nav>ul {
+nav>p {
   margin-left: 20px;
+}
+nav>ul {
+  margin-left: 30px;
 }
 main {
 background: #66CDAA;
@@ -36,6 +39,8 @@ clear: both;
 }
 footer>p {
   padding: 5px;
+  margin-right: 10px;
+  margin-top: 10px;
 }
 li {
   list-style-type: circle;
